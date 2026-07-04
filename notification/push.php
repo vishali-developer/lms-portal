@@ -15,8 +15,8 @@ require 'web-push/vendor/autoload.php';
 // var_dump(VAPID::createVapidKeys());
 // die;
 
-$publicKey = "BNar6vpGHKws57cl15Pehw3a_f919J-RtKSfIraQHVMhXxqr1sC0fCwhbP1iesm7oZOY5B1LMvM5IEj9B0YfBm4";
-$privateKey = "xOE6U6NSD4RMShbxltX5lXiE7-UhG5LyUX9iI8ViL3o";
+$publicKey = "";
+$privateKey = "";
 
 // $message = json_encode([
 //     'title' => 'LeadPro - LMS Message!',
