@@ -1,4 +1,4 @@
-const applicationServerKey = "BNar6vpGHKws57cl15Pehw3a_f919J-RtKSfIraQHVMhXxqr1sC0fCwhbP1iesm7oZOY5B1LMvM5IEj9B0YfBm4";
+const applicationServerKey = "";
 let pushButton = document.querySelector('.js-push-btn');
 
 let serviceWorkerRegistration = null;
